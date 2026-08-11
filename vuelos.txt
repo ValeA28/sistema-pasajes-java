@@ -1,0 +1,2 @@
+Mendoza,Buenos Aires,20/07,10:00,LATAM,45000.0
+Mendoza,Cordoba,21/07,14:00,Flybondi,30000.0

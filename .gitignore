@@ -1,0 +1,12 @@
+# Carpetas generadas por NetBeans
+build/
+dist/
+
+# Archivos compilados
+*.class
+
+# Logs
+*.log
+
+# Tickets generados durante la ejecución
+tickets_generados/*.pdf
